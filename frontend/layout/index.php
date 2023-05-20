@@ -2,10 +2,10 @@
 
 <!DOCTYPE html>
 <html lang="en">
-  <?php include_once($partialFrontend.'head.php')?>
+  <?php include_once($frontEndElement.'head.php')?>
 <body>
 
-    <?php include_once($partialFrontend.'nav.php')?>
+    <?php include_once($frontEndElement.'nav.php')?>
 
       <div id="carouselExampleCaptions" class="carousel slide">
         <div class="carousel-indicators">
@@ -162,7 +162,8 @@
           </div>
       </section>
 
-      <?php include_once($partialFrontend.'footer.php')?>
+      <?php include_once($frontEndElement.'footer.php')?>
+      <!-- partialFrontend -->
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous" ></script>
 </body>
