@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+    font-family:"Fantasy" ,"Papyrus" ;
+}
+#about{
+    margin-top:100px;
+}
+#about h3{
+    font-size: 45px; 
+  color:#FC4F00;
+  text-align: center;
+  font-family:"Fantasy" ,"Papyrus" ;
+}
+.about{
+    width:85%;
+    margin-left: 7.5%;
+    background-color: #2A2F4F;
+    margin-top:60px;
+    padding:60px;
+    border-radius: 15%;;
+}
+.about p{
+    text-align: center;
+    font-size: 25px;
+    letter-spacing: 2px;
+    font-family: "Monospace","Courier New";
+    font-weight: lighter;
+    color:#FDE2F3;
+}

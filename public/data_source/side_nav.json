@@ -1,0 +1,61 @@
+[
+  {
+    "name": "Dashboard",
+    "icon": "icon-home4",
+    "url": "dashboard"
+  },
+  {
+    "name": "Customers",
+    "icon": "icon-users2",
+    "url": "admin.customers.index"
+  }
+  ,
+  {
+    "name": "Users",
+    "icon": "icon-users2",
+    "url": "admin.user.index"
+  }
+  ,
+  {
+    "name": "Tables",
+    "icon": "icon-exit3",
+    "url": "admin.tables.index"
+  }
+  ,
+  {
+    "name": "Categories",
+    "icon": "icon-list",
+    "url": "admin.categories.index"
+  },
+  {
+    "name": "Products",
+    "icon": "icon-grid4",
+    "url": "admin.products.index"
+  },
+  {
+   
+    "name": "Reservation",
+    "icon": "icon-exit3",
+    "url":"admin.reservations.index"
+  },
+  {
+    "name": "Orders",
+    "icon": "icon-compose",
+    "url":"admin.orders.index"
+    
+  },
+  {
+    "name": "App configuration",
+    "icon": "icon-android",
+    "subnav": [
+      {
+        "name": "Slider Images",
+        "url": "admin.sliders.index"
+      },
+      {
+        "name": "About Page",
+        "url": "admin.about.index"
+      }
+    ]
+  }
+]
